@@ -1,2 +1,2 @@
-# multisocial-android
-All about the social, Instagram, Facebook, and Twitter.
+# Multi Social
+Your social Instagram, Facebook, Twitter, and other.
